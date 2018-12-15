@@ -24,7 +24,7 @@ let messages = {
   },
 };
 
-export deafult {
-    users,
-    messages,
-}
+export default {
+  users,
+  messages,
+};
