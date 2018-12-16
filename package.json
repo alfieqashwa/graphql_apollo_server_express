@@ -1,7 +1,7 @@
 {
-  "name": "node-babel-server",
+  "name": "graphql_apollo_server_express",
   "version": "1.0.0",
-  "description": "",
+  "description": "GraphQL Server Tutorial with Apollo Server and Express",
   "main": "index.js",
   "scripts": {
     "start": "nodemon --exec babel-node src/index.js",
@@ -9,7 +9,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.1.6",
     "@babel/node": "^7.0.0",
